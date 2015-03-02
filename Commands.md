@@ -1,2 +1,2 @@
 #WiFi Commands
-##Resolution & Framerate
+####Resolution & Framerate
